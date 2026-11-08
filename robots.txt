@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://akshayan03.github.io/mutual-site/sitemap.xml
