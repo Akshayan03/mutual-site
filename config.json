@@ -1,4 +1,5 @@
 {
   "supabaseUrl": "",
-  "supabaseAnonKey": ""
+  "supabaseAnonKey": "",
+  "notifyUrl": "https://forms.gle/rcshXm1Q8eEzWCSDA"
 }
